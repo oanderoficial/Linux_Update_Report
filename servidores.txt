@@ -1,0 +1,3 @@
+srv-linux-01 
+srv-linux-02 
+10.10.10.50
