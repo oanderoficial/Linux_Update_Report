@@ -229,4 +229,9 @@ Os servidores são ordenados automaticamente de acordo com os seguintes critéri
 
 Este projeto está licenciado sob os termos da licença MIT.
 
+## Referências 
+
+* Paramiko
+ -> SSHClient: https://docs.paramiko.org/en/stable/api/client.html#paramiko.client.SSHClient
+  
 
