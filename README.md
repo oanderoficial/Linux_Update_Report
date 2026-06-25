@@ -233,5 +233,7 @@ Este projeto está licenciado sob os termos da licença MIT.
 
 * Paramiko
  -> SSHClient: https://docs.paramiko.org/en/stable/api/client.html#paramiko.client.SSHClient
-  
+
+* Openpyxl
+ -> workbook: https://openpyxl.readthedocs.io/en/stable/api/openpyxl.workbook.workbook.html#openpyxl.workbook.workbook.Workbook
 
